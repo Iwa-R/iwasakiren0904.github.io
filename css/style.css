@@ -436,42 +436,14 @@ header {
     cursor: pointer;
 }
 
+.flex_works > ul > li:hover {
+    opacity: 0.8;
+}
+
 .flex_works ul > li > a > img {
     max-width:240px;
 }
 
-
-
-/* プラスボタン */
- /* .dli-plus {
-    display: block;
-    color: #000;
-    line-height: 1;
-    width: 2em;
-    height: 0.1em;
-    background: currentColor;
-    border-radius: 0.1em;
-    position: relative;
-    margin: 0 auto;
-    margin-top: 30px;
-    cursor: pointer;
-  }
-
-  .dli-plus:hover {
-      opacity: 0.5;
-  }
-  
-  .dli-plus::before {
-    content: '';
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    background: inherit;
-    border-radius: inherit;
-    transform: rotate(90deg);
-  } */
 
 
 
